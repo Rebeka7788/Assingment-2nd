@@ -1,0 +1,67 @@
+body{
+	margin: 0;
+}
+.section{
+	background-color: #2c3e50;
+	color: white;
+}
+.container{
+	width: 600px;
+	margin: 0 auto;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	text-align: center;
+}
+.logo{
+	width: 150px;
+	margin-bottom: 40px;
+}
+.shape{
+	display: block;
+	margin: auto;
+}
+h1{
+	font-size: 55px;
+	margin: 0;
+	text-transform: uppercase;
+	font-style: oblique;
+}
+.btn{
+	color: white;
+	background: orange;
+	padding: 20px 15px;
+	display: inline-block;
+	margin: 20px 0;
+	text-transform: capitalize;
+	font-weight: 900;
+	font-size:20px ;
+	text-decoration: none;
+	letter-spacing: 2px;
+	border-radius: 30px;
+	display: block;
+
+}
+.search{
+
+}
+p{
+
+}
+.green{
+	color: #00b894;
+}
+.red{
+	color: #f39c12;
+}
+.post{
+	width: 1200px;
+	margin: auto;
+	display: flex;
+
+}
+.box{
+	padding: 40px;
+	font-size: 25px;
+	border: 2px solid red;
+
+}
